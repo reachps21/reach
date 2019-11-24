@@ -1,0 +1,55 @@
+h3 {
+    color: rgb(141, 95, 167);
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    text-align: center
+}
+
+.aboutme {
+    text-align: right;
+}
+
+p {
+    color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px
+}
+
+.paragraph {
+    background-color: rgb(23, 184, 170);
+}
+
+.blue-text {
+    color: blue;
+}
+
+#border-header {
+    border: solid;
+    padding: 40px;
+    margin: 80px;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet
+}
+.inline-header{
+    display: inline
+}
+#header-group{
+    border: solid;
+    border-color: aqua;
+}
+body{
+    background-image: url("./Picture/image.webp");
+}
+#span-text{
+    color: aquamarine;
+    font-weight: 700;
+}
+
+#title {
+    text-align: center;
+}
